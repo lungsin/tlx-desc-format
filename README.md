@@ -363,7 +363,7 @@ Selanjutnya, anda dapat menginsert text ber-link dengan salah satu format beriku
         > <img src="/render/other/dadu.jpg">\
         > \
         > gambar kucing dengan alt text (hover ke gambar): 
-        > <img src="https://i.ytimg.com/vi/V015SjjbYXE/maxresdefault.jpg" alt="gambar dicopy dari google">
+        > <img src="https://i.ytimg.com/vi/V015SjjbYXE/maxresdefault.jpg" title="gambar dicopy dari google">
         
 Catatan: 
 
