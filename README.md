@@ -220,7 +220,6 @@ Format:
     - Beberapa baris, yang mana tiap barisnya dapat diawali dengan indentasi. Indentasi disini berguna untuk `Contoh Interaksi` (untuk lebih detailnya, lihat Contoh dibawah).
     - Diakhiri oleh sebuah baris kosong.
  
-    Section disini akan 
 
 Contoh: 
 - `Contoh Masukan`: 
