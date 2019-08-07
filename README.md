@@ -110,7 +110,7 @@ Contoh:
 
 ### Ketidaksamaan
  
-Semua `<=` dan `>=` masing2 akan diubah menjadi `≤` dan `≥`.
+Semua `<=` dan `>=` masing-masing akan diubah menjadi `≤` dan `≥`.
 
 ### Multilevel bullet points
 
