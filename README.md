@@ -306,7 +306,7 @@ Contoh:
     
     > Klik <a href="https://www.google.com"> disini </a> untuk menuju Google.\
     > Klik <a href="https://www.youtube.com"> disini </a> untuk menuju Youtube.\
-    > Klik <a href="https://www.google.com"> disini </a> untuk menuju link relatif.
+    > Klik <a href="/contoh.txt"> disini </a> untuk menuju link relatif.
 
 ## Gambar
 
