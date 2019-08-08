@@ -106,11 +106,29 @@ Contoh:
     ```
     
     > A <sup> i </sup> <sub> j </sub>
+
+- 
+    ```
+    A_{B^i}
+    ```  
     
+    > A <sub> B <sup> i </sup> </sub> 
 
 ### Ketidaksamaan
  
 Semua `<=` dan `>=` masing-masing akan diubah menjadi `≤` dan `≥`.
+
+### Inline-code
+
+Untuk memasukan snippet code, anda dapat menggunakan format berikut: 
+
+- 
+    ` ``` ` + `<kode anda>` + ` ``` `
+    atau,
+    
+- Apabila kode anda tidak mengandung newline, anda dapat menggunakan format ini:
+
+    `` ` `` + `<kode anda>` + `` ` ``
 
 ### Multilevel bullet points
 
@@ -128,9 +146,11 @@ Contoh:
     >     - level 3
 
 
-### Kombinasi 
+### Nested Format 
 
-Semua format diatas dapat dikombinasikan. Contoh: 
+Semua format diatas dapat dikombinasikan. Anda dapat menggunakan `{ ... }` untuk menyatakan bahwa text didalam `{}` merupakan satu grup.
+
+Contoh: 
 
 - 
     ```
@@ -142,6 +162,16 @@ Semua format diatas dapat dikombinasikan. Contoh:
     > - ***italic bold***
     > - *~~italic strikethrough~~*
     > - **bold A<sub>i</sub><sup>j</sup>**
+   
+-  
+    ```
+    A ^ B_i
+    A ^ {B_i}
+    A ^ {x ^ 2 + y ^ 2 + z ^ 2}
+    ```
+    > A <sup> B </sup> <sub> i </sub>\
+    > A <sup> B <sub> i </sub> </sup>\
+    > A <sup> x <sup> 2 </sup> + y <sup> 2 </sup> + z <sup> 2 </sup> </sup>
     
 ## Judul
 
