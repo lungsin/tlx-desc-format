@@ -110,7 +110,7 @@ Contoh:
 
 ### Ketidaksamaan
  
-Semua `<=` dan `>=` masing2 akan diubah menjadi `≤` dan `≥`.
+Semua `<=` dan `>=` masing-masing akan diubah menjadi `≤` dan `≥`.
 
 ### Multilevel bullet points
 
@@ -305,7 +305,7 @@ Contoh:
     
     > Klik <a href="https://www.google.com"> disini </a> untuk menuju Google.\
     > Klik <a href="https://www.youtube.com"> disini </a> untuk menuju Youtube.\
-    > Klik <a href="https://www.google.com"> disini </a> untuk menuju link relatif.
+    > Klik <a href="/contoh.txt"> disini </a> untuk menuju link relatif.
 
 ## Gambar
 
