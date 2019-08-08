@@ -129,6 +129,38 @@ Untuk memasukan snippet code, anda dapat menggunakan format berikut:
 - Apabila kode anda tidak mengandung newline, anda dapat menggunakan format ini:
 
     `` ` `` + `<kode anda>` + `` ` ``
+    
+Contoh: 
+
+- 
+    ````
+    ```
+    #include <bits/stdc++.h>
+    
+    using namespace std;
+    
+    int main() {
+        puts("Hello, world!");
+    }
+    ```
+    ````
+    
+    > ```
+    > #include <bits/stdc++.h>
+    > 
+    > using namespace std;
+    > 
+    > int main() {
+    >     puts("Hello, world!");
+    > }
+    > ```
+    
+- 
+    ```
+    The value of `x` must be positive, while the value of `y` is negative.
+    ```
+    
+    > The value of `x` must be positive, while the value of `y` is negative.
 
 ### Multilevel bullet points
 
