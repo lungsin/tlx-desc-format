@@ -197,9 +197,9 @@ Contoh:
    
 -  
     ```
-    A ^ B_i
-    A ^ {B_i}
-    A ^ {x ^ 2 + y ^ 2 + z ^ 2}
+    A^B_i
+    A^{ B_i }
+    A^{ x^2 + y^2 + z^2}
     ```
     > A <sup> B </sup> <sub> i </sub>\
     > A <sup> B <sub> i </sub> </sup>\
