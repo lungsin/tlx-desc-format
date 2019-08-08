@@ -1,4 +1,4 @@
-# MarkX Format 
+# MarkX Format Guide
 
 ## Basic Text Formatting
 
